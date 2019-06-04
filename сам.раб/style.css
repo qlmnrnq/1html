@@ -1,0 +1,31 @@
+.disp{
+	display: flex;
+}
+.fotka{
+	margin-left: 100px
+}
+.fotk{
+	margin-left: 50px;
+}
+h2{
+
+}
+.meet{
+	margin-top: 50px;
+	margin-left: 100px;
+	font-family: arial;
+	font-size: 20px;
+	color: gray;
+}
+h3{
+	text-align: center;
+	font-family: arial;
+	font-size: 18px;
+	margin-right: 60px
+}
+.red{
+	color:red;
+}
+img{
+	width: 70%
+}
